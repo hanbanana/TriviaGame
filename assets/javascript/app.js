@@ -1,4 +1,3 @@
-$(document).ready(function () {
     $('.wrapper').hide();
     $('.restart').hide();
     $('.done').hide();
@@ -75,4 +74,4 @@ $(document).ready(function () {
 
     });
 
-});
+
