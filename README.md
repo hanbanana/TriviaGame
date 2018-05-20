@@ -7,4 +7,4 @@ Rules & Features
 
 - Users are allowed to choose one answer per question
 
-- Users score is talied once the submit button is clicked
+- Users score is talied once the DONE button is clicked
